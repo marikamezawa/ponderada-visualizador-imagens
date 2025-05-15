@@ -67,3 +67,14 @@ streamlit run main.py
 ```
 
 
+## referências:
+
+**ALVES, Thiago.** Building webcam streaming applications with Streamlit and OpenCV. 2023. Disponível em: https://thiagoalves.ai/pt/building-webcam-streaming-applications-with-streamlit-and-opencv/. Acesso em: 12 maio 2025.
+
+**STREAMLIT.** st.file_uploader. Documentação oficial. Disponível em: https://docs.streamlit.io/develop/api-reference/widgets/st.file_uploader. Acesso em: 12 maio 2025.
+
+**SANTOS, Diogo.** Streamlit com OpenCV: app com webcam, upload e filtros. YouTube, 2023. Disponível em: https://youtu.be/groftMCwSR0?feature=shared. Acesso em: 12 maio 2025.
+
+
+
+
