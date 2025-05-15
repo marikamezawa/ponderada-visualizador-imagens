@@ -66,6 +66,9 @@ pip install -r requirements.txt
 streamlit run main.py
 ```
 
+## Vídeo
+https://drive.google.com/file/d/1fgb-wx02y53uLONTjB7qHi6T-N9820uQ/view?usp=sharing
+
 
 ## referências:
 
